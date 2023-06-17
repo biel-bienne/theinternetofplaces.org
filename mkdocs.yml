@@ -5,8 +5,7 @@ theme:
   name: material
   language: fr
 
-  font:
-    text: Fira Sans
+  font: false
 
   logo: assets/images/logo.png
   favicon: assets/images/favicon.png
