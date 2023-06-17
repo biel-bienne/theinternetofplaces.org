@@ -1,0 +1,12 @@
+site_name: L’Internet des Lieux
+site_url: https://theinternetofplaces.org/
+
+theme:
+  name: material
+  language: fr
+
+  font:
+    text: Fira Sans
+
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
