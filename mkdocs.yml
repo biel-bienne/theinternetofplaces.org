@@ -1,6 +1,15 @@
 site_name: L’Internet des Lieux
 site_url: https://theinternetofplaces.org/
 
+nav:
+  - index.md
+  - spotin.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 theme:
   name: material
   language: fr
